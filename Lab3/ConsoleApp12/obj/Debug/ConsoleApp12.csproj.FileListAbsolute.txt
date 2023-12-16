@@ -1,0 +1,10 @@
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CopyComplete
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\GAIFo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
